@@ -8,7 +8,7 @@ https://www.scirra.com/construct2
 
 https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-1
 
-（英文看不懂？？不用担心谷歌浏览器里有翻译![](http://i2.hdslb.com/bfs/face/201d2e9420b0d5ca25e150db083c130d98e7361a.jpg))
+（英文看不懂？？不用担心，谷歌浏览器里有翻译![](http://i2.hdslb.com/bfs/face/201d2e9420b0d5ca25e150db083c130d98e7361a.jpg))
 
 照着教程里做，问题应该就不大了。
 弄完之后就是这样的了:
