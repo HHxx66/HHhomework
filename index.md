@@ -3,10 +3,11 @@
 ## 课后作业
 
 1. [01-使用维基百科（Wikipedia）解释名词](hw01)
-2. [02-homework2](hw02)
-3. [03-homework3](hw03)
-4. [04-](hw04)
-
+2. [02-homework02](hw02)
+3. [03-homework03](hw03)
+4. [04-homework04](hw04)
+5. [05-homework05](hw05)
+6. [06-homework06](hw06)
 
 ## 实验与实践
 
