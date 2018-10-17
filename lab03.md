@@ -22,7 +22,7 @@ USR公司开发出更先进的NS-5型超能机器人，并计划平均每5人便
 
 史普纳不放弃对一切与朗宁博士有关资料的追踪，却不幸遭到大批NS-5型机器人的追杀，显然是有人想致他于死地，在遭受追杀的过程中，影片第一次向观众展示了他的机械手臂。
 
-![](http://auto.china.com/zh_cn/life/zhuanti/11036830/20051101/images/12808344_2005110118580390062000.jpg)
+![](http://p5.so.qhimgs1.com/t01cfbdbed3fc8704bb.jpg)
 
 ![](https://pic.baike.soso.com/ugc/baikepic/31381/cut-20140416113000-131030510.jpg/0)
 
