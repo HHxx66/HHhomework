@@ -25,3 +25,5 @@
 当今我们印象较深的应该就是iPhone了，iPhone每次更新换代都会引起一大波国人淘汰旧iPhone追求新款的iPhone，更有卖肾之说。这些现象也与贝尔定律相符。
 
 [若想了解更多可前往贝尔定律的维基百科](https://en.wikipedia.org/wiki/Bell%27s_law_of_computer_classes)
+
+$\because$ Positional Notation $${(x)}_{2} = \sum_{i=1}^{k}d_{i}2^{i-1}$$  
