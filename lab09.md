@@ -7,6 +7,8 @@
 
 ## 高数问题
 
+![](images/star21.png)
+
 ### 泰勒分解
 
 ![](images/star14.png)
@@ -20,6 +22,8 @@
 ![](images/star16.png)
 
 ## 线代问题
+
+![](images/star20.png)
 
 ### 求dot
 
